@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @J-Bami
-- 👀 I’m interested in ... C++, Graphics
-- 🌱 I’m currently learning ... How to make a Game engine
+- 👀 I’m interested in ... C++, Graphics, template metaprogramming, Zig... eventually
+- 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ... ??
 - 📫 How to reach me ... 
 
